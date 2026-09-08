@@ -1,7 +1,5 @@
 # check
-checking smth
-[palworld-mbti-test.html](https://github.com/user-attachments/files/31901493/palworld-mbti-test.html)
-<!DOCTYPE html>
+
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
